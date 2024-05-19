@@ -6,7 +6,6 @@ title: "Morteza Haidari's CV"
 # Morteza Haidari
 **Data Engineer - Software Developer**
 
-Thore Ellingsens veg 9, 4352 Kleppe, Norway  
 +47 40390704  
 murtaza_haidari2008@hotmail.com  
 
@@ -89,7 +88,6 @@ GitHub School project repositories are available on GitHub and can be accessed u
 
 **Email:** murtaza_haidari2008@hotmail.com  
 **Phone:** +47 40390704  
-**Address:** Thore Ellingsens veg 9, 4352 Kleppe, Norway
 
 ---
 
