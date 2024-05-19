@@ -10,7 +10,7 @@ Thore Ellingsens veg 9, 4352 Kleppe, Norway
 +47 40390704  
 murtaza_haidari2008@hotmail.com  
 
-![photo.jpg](photo.jpg)
+![assets/img/photo.jpg](photo.jpg)
 ---
 
 ## Profile
