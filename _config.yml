@@ -1,7 +1,11 @@
-title: Morteza Haidari
-#logo: /assets/img/headshot_circle.png
-#description: text below image
-#show_downloads: true
-#remote_theme: pages-themes/architect@v0.2.0
+title: Morteza Haidari's Portfolio
+email: murtaza_haidari2008@hotmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  This is my portfolio site showcasing my CV and projects.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://username.github.io" # the base hostname & protocol for your site
+theme: jekyll-theme-architect
+github_username: username
+
 plugins:
-- jekyll-theme-minimal
+  - jekyll-feed
